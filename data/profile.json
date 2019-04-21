@@ -1,0 +1,63 @@
+{
+  "firstName": "Raju",
+  "lastName": "Dandigam",
+  "fullName": "Raju Dandigam",
+  "address": {
+    "street": "XXX Street",
+    "apt": "XX",
+    "city": "San Jose",
+    "state": "California",
+    "country": "USA"
+  },
+  "dob": "August 04 1989",
+  "education": {
+    "degree": {
+      "name": "Bachelor of Technology",
+      "course": "Computer Science and Engineering",
+      "year": "2010",
+      "month": "May",
+      "percentage": "73"
+    },
+    "school": {
+      "name": "Board of Intermediate",
+      "course": "Math, Physics and Chemistry",
+      "year": "2006",
+      "month": "Apr",
+      "percentage": "93"
+    }
+  },
+  "projects": [
+    {
+      "name": "eBay Seller Hub ActiveListings",
+      "startYear": "2018",
+      "startMonth": "March",
+      "skils": ["Markojs", "NodeJS", "HTML5", "JavaScript", "CSS3"],
+      "client": "eBay",
+      "employer": "eBay"
+    },
+    {
+      "name": "Comcast Business Class Portal",
+      "startYear": "2015",
+      "startMonth": "September",
+      "endYear": "2018",
+      "endMonth": "March",
+      "skils": ["ReactJS", "knockoutJS", "HTML5", "JavaScript", "CSS3"],
+      "client": "Comcast",
+      "employer": "Cognizant Technology Solutions"
+    }
+  ],
+  "companies": [
+    {
+      "name": "eBay",
+      "startYear": "2018",
+      "startMonth": "March"
+    },
+    {
+      "name": "Cognizant Technology Solutions",
+      "startYear": "2011",
+      "startMonth": "March",
+      "endYear": "2018",
+      "endMonth": "March"
+    }
+  ]
+}
