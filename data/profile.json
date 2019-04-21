@@ -2,6 +2,8 @@
   "firstName": "Raju",
   "lastName": "Dandigam",
   "fullName": "Raju Dandigam",
+  "title": "Front End Engineer",
+  "subTitle": "Have been developing Web / Mobile Web/ Hybrid Mobile Web Applications",
   "address": {
     "street": "XXX Street",
     "apt": "XX",
@@ -59,5 +61,13 @@
       "endYear": "2018",
       "endMonth": "March"
     }
-  ]
+  ],
+  "contact": {
+    "email": "raju0574@gmail.com",
+    "links": {
+      "linkedIn": "https://www.linkedin.com/in/raju-dandigam/",
+      "facebook": "https://www.facebook.com/raju.dandigam",
+      "github": "https://github.com/rajudandigam/"
+    }
+  }
 }
